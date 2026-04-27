@@ -5,5 +5,5 @@ def rolar_dados (n):
         a = randint(1, 6)
         l.append(a)
     return l
-
+# Alteração
 
